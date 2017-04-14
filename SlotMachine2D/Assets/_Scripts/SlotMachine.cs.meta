@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f3a2326a320634203b70f12c727c4f40
+timeCreated: 1492200008
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - betText: {instanceID: 0}
+  - totalCreditsText: {instanceID: 0}
+  - winnerPaidText: {instanceID: 0}
+  - seven: {fileID: 21300000, guid: 516bec1b9c7d44e3294da3bcb616e391, type: 3}
+  - banana: {fileID: 21300000, guid: 77d21ffb1c134425c9d3dac7db860d2c, type: 3}
+  - bar: {fileID: 21300000, guid: 517241bbcbab24d20963e80c99012637, type: 3}
+  - bell: {fileID: 21300000, guid: 6e576ca4cdfde44568764959f70f53ef, type: 3}
+  - blank: {fileID: 21300000, guid: 6dc4d5b034d6344c49e4a2394ad2284e, type: 3}
+  - cherry: {fileID: 21300000, guid: f6d3d97fd1f4e43e7aafc4f2dd2aac6c, type: 3}
+  - grape: {fileID: 21300000, guid: 9817a2b0b61934f03aafdd1981286398, type: 3}
+  - orange: {fileID: 21300000, guid: d41f1d848fcea4ab69c75c56f7755914, type: 3}
+  - leftWheel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
